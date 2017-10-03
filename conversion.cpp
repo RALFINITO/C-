@@ -33,6 +33,7 @@ int main(int argc, char* argv[])
 
   double fac{ 2.54 }; // or use auto conversion factor
   // prompt user
+    cout << "This is now under source control.\n\n";
   cout << "Input number followed by i for inch input, c for centimetres input\n";
   cout << "Enter length: ";
 
